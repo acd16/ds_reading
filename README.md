@@ -30,6 +30,10 @@
 - Percolator: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36726.pdf
 - Spanner: http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf
 - F1: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41344.pdf
+
+## Leaderless replication
+- Cassandra: https://research.cs.cornell.edu/ladis2009/papers/lakshman-ladis2009.pdf
+- Dynamo: https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
   
  ## Resources
   - https://wiki.crdb.io/wiki/spaces/CRDB/pages/16646155/Database+Background
