@@ -38,3 +38,4 @@
   
  ## Resources
   - https://wiki.crdb.io/wiki/spaces/CRDB/pages/16646155/Database+Background
+  - https://jepsen.io/analyses
