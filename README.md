@@ -4,7 +4,7 @@
   - Designing data intensive applications: https://dataintensive.net
   - https://www.cncf.io/blog/2019/11/04/building-a-large-scale-distributed-storage-system-based-on-raft/
   - TiKV documentation: https://tikv.github.io/deep-dive-tikv/overview/introduction.html
-  - https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+  - Logs in databases: https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
   
   
 # Storage data structues
