@@ -1,15 +1,16 @@
 # Distributed systems reading material
 
 ## Building blocks
+  - Designing data intensive applications: https://dataintensive.net
   - https://www.cncf.io/blog/2019/11/04/building-a-large-scale-distributed-storage-system-based-on-raft/
-  - https://tikv.github.io/deep-dive-tikv/overview/introduction.html
+  - TiKV documentation: https://tikv.github.io/deep-dive-tikv/overview/introduction.html
   - https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
   
   
 # Storage data structues
   - LVM vs B-trees: https://queue.acm.org/detail.cfm?id=3220266
   - https://blog.yugabyte.com/a-busy-developers-guide-to-database-storage-engines-the-basics/
-  - Jungle: combining LSM and B-trees: https://www.usenix.org/system/files/hotstorage19-paper-ahn.pdf
+  - Jungle- combining LSM and B-trees: https://www.usenix.org/system/files/hotstorage19-paper-ahn.pdf
   
 ## Consensus
 - Raft algorithm https://raft.github.io/raft.pdf
