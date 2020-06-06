@@ -14,6 +14,7 @@
   
 ## Consensus
 - Raft algorithm https://raft.github.io/raft.pdf
+- Paxos vs Raft: https://arxiv.org/pdf/2004.05074.pdf
 - Multi raft 
   - https://www.cockroachlabs.com/blog/scaling-raft/
   - https://blog.yugabyte.com/how-does-the-raft-consensus-based-replication-protocol-work-in-yugabyte-db/
